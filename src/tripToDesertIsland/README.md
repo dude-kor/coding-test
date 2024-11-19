@@ -41,11 +41,11 @@ maps[i]는 'X' 또는 1 과 9 사이의 자연수로 이루어진 문자열입�
 
 위 문자열은 다음과 같은 지도를 나타냅니다.
 
-<img src="~@source/static/trip_to_desert_island_image01.png"/>
+<img src="static/trip_to_desert_island_image01.png"/>
 
 연결된 땅들의 값을 합치면 다음과 같으며
 
-<img src="~@source/static/trip_to_desert_island_image02.png"/>
+<img src="static/trip_to_desert_island_image02.png"/>
 
 이를 오름차순으로 정렬하면 [1, 1, 27]이 됩니다.
 
@@ -53,6 +53,6 @@ maps[i]는 'X' 또는 1 과 9 사이의 자연수로 이루어진 문자열입�
 
 위 문자열은 다음과 같은 지도를 나타냅니다.
 
-<img src="~@source/static/trip_to_desert_island_image03.png"/>
+<img src="static/trip_to_desert_island_image03.png"/>
 
 섬이 존재하지 않기 때문에 -1을 배열에 담아 반환합니다.
